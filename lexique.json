@@ -1,0 +1,91 @@
+{
+  "intensificateurs": [
+    { "mot": "برشا", "latin": "barsha", "sens": "beaucoup, trop" },
+    { "mot": "يزي", "latin": "yezzi", "sens": "ça suffit, assez" },
+    { "mot": "قداش", "latin": "qaddesh", "sens": "combien, tellement" },
+    { "mot": "عادي", "latin": "3adi", "sens": "normal, tranquille (ironie)" },
+    { "mot": "بالكامل", "latin": "belkaml", "sens": "complètement, à fond" },
+    { "mot": "طيّارة", "latin": "tayara", "sens": "incroyable, super fort, lourd" },
+    { "mot": "عالمية", "latin": "3alamia", "sens": "international, masterclass" },
+    { "mot": "ماشي هين", "latin": "mashi hein", "sens": "pas facile, sérieux" },
+    { "mot": "صح", "latin": "sa7", "sens": "vrai, exactement" },
+    { "mot": "وليدي", "latin": "wlidi", "sens": "mon gars (emphase affective)" }
+  ],
+  "identite_appartenance": [
+    { "mot": "حومة", "latin": "7ouma", "sens": "le quartier, la rue" },
+    { "mot": "بلادي", "latin": "bledi", "sens": "mon pays, chez moi" },
+    { "mot": "ناسي", "latin": "nessi", "sens": "mes gens, mon peuple" },
+    { "mot": "زوالي", "latin": "zweli", "sens": "fils du peuple, sans le sou" },
+    { "mot": "ولاد الشعب", "latin": "wled el sha3b", "sens": "enfants du peuple" },
+    { "mot": "أصل", "latin": "asl", "sens": "origine, authenticité" },
+    { "mot": "عروبي", "latin": "3roubi", "sens": "de la campagne (fierté réappropriée)" },
+    { "mot": "توانسة", "latin": "tounsa", "sens": "les Tunisiens (identité)" },
+    { "mot": "ابن الحومة", "latin": "ibn el 7ouma", "sens": "enfant du quartier" }
+  ],
+  "validation_rejet": [
+    { "mot": "زعمة", "latin": "za3ma", "sens": "genre, soi-disant, est-ce que" },
+    { "mot": "تو", "latin": "taw", "sens": "maintenant, là, désormais" },
+    { "mot": "خاطر", "latin": "khater", "sens": "parce que, à cause de" },
+    { "mot": "عيب", "latin": "3eib", "sens": "honte, c'est mal" },
+    { "mot": "حشمة", "latin": "7achma", "sens": "pudeur, honte (positive)" },
+    { "mot": "بدلة", "latin": "bdela", "sens": "trahison, traître" },
+    { "mot": "حاشا", "latin": "7asha", "sens": "loin de moi (déni fort)" },
+    { "mot": "ما عندوش", "latin": "ma3endoush", "sens": "il n'a pas (le niveau/le courage)" },
+    { "mot": "كلب", "latin": "kalb", "sens": "chien (insulte courante)" },
+    { "mot": "دراما", "latin": "drama", "sens": "du théâtre, du flan" }
+  ],
+  "rue_argot": [
+    { "mot": "كازو", "latin": "kazou", "sens": "prison" },
+    { "mot": "فيزة", "latin": "viza", "sens": "la visa / l'Europe rêvée" },
+    { "mot": "حرقة", "latin": "7ar9a", "sens": "traversée clandestine, brûler les frontières" },
+    { "mot": "كوبري", "latin": "kobri", "sens": "pont (lieu de deal/errance)" },
+    { "mot": "فريشة", "latin": "frisha", "sens": "liberté, air frais" },
+    { "mot": "نقازة", "latin": "ne9aza", "sens": "flic, police" },
+    { "mot": "طير", "latin": "tir", "sens": "dégage, envole-toi" },
+    { "mot": "قرعة", "latin": "9ar3a", "sens": "tirage au sort / la chance" },
+    { "mot": "ماندرة", "latin": "mandra", "sens": "scène, show, esbroufe" },
+    { "mot": "بيزنيس", "latin": "biznis", "sens": "business (légal ou pas)" },
+    { "mot": "كيف", "latin": "kif", "sens": "substance / plaisir" },
+    { "mot": "زبلة", "latin": "zbala", "sens": "ordures, nullité totale" },
+    { "mot": "جو", "latin": "jaw", "sens": "l'ambiance, le délire, le mood" },
+    { "mot": "فازة", "latin": "faza", "sens": "un coup, un style, un truc" },
+    { "mot": "تخلويض", "latin": "takhwidh", "sens": "du grand n'importe quoi, délire" }
+  ],
+  "emotions_etats": [
+    { "mot": "ضيق", "latin": "dhei9", "sens": "étouffement, oppression" },
+    { "mot": "حنين", "latin": "7nin", "sens": "nostalgie, mélancolie profonde / doux" },
+    { "mot": "غالب", "latin": "ghaleb", "sens": "dominant, qui s'en sort" },
+    { "mot": "ما حاجتيش", "latin": "ma 7ajtech", "sens": "j'en ai pas besoin, je n'en veux pas" },
+    { "mot": "موش فيها", "latin": "moush fiha", "sens": "c'est nul, ça ne vaut rien" },
+    { "mot": "ولهان", "latin": "welhan", "sens": "fou amoureux / obsédé" },
+    { "mot": "مضيّق", "latin": "mdhayye9", "sens": "stressé, à l'étroit" },
+    { "mot": "صابر", "latin": "saber", "sens": "patient, qui endure" },
+    { "mot": "ناوي", "latin": "nawi", "sens": "déterminé, décidé à" }
+  ],
+  "puissance_feminine": [
+    { "mot": "فحلة", "latin": "fa7la", "sens": "femme forte, courageuse, qui gère" },
+    { "mot": "حرة", "latin": "7orra", "sens": "libre, femme indépendante et digne" },
+    { "mot": "شنوة", "latin": "shnoua", "sens": "quoi (défi ou interrogation)" },
+    { "mot": "إنتي شكون", "latin": "inti shkoun", "sens": "t'es qui toi (défi)" },
+    { "mot": "مش شغلتك", "latin": "msh shghlek", "sens": "c'est pas ton affaire" },
+    { "mot": "هاني هنا", "latin": "hani hna", "sens": "je suis là, bien présente (affirmation)" },
+    { "mot": "ما نتزعزعش", "latin": "ma netzaz3esh", "sens": "je ne tremble pas, inébranlable" }
+  ],
+  "expressions_completes": [
+    { "mot": "يا ربي استر", "latin": "ya rabbi stur", "sens": "Dieu protège (invocation)" },
+    { "mot": "الله يهديك", "latin": "allah yhadik", "sens": "que Dieu te guide (condescendant ou apaisant)" },
+    { "mot": "على راسي", "latin": "3la rasi", "sens": "sur ma tête (avec plaisir / respect)" },
+    { "mot": "شحوالك", "latin": "sh7walek", "sens": "comment tu vas / quoi de neuf" },
+    { "mot": "شيّن وين", "latin": "shen win", "sens": "montre d'où tu viens" },
+    { "mot": "امشي على روحك", "latin": "imchi 3la rou7ek", "sens": "trace ta route, occupe-toi de toi" },
+    { "mot": "بالرسمي", "latin": "berrasmi", "sens": "sérieusement, vraiment, pour de vrai" },
+    { "mot": "ربي كريم", "latin": "rabbi karim", "sens": "Dieu est généreux (résignation/espoir)" },
+    { "mot": "في الأخر", "latin": "fel ekher", "sens": "au final, à la fin" },
+    { "mot": "لا باس", "latin": "la bes", "sens": "pas mal, ça va (réponse standard)" },
+    { "mot": "توا توا", "latin": "taw taw", "sens": "tout de suite, maintenant même" },
+    { "mot": "ماشي مشكلة", "latin": "mashi moshkla", "sens": "pas de problème" },
+    { "mot": "عندك الحق", "latin": "3endek el 7e9", "sens": "t'as raison" },
+    { "mot": "شوف شوف", "latin": "chouf chouf", "sens": "regarde bien, tu vois" },
+    { "mot": "جونا باهي", "latin": "jawna behi", "sens": "on est bien, tout est carré, bonne ambiance" }
+  ]
+}
